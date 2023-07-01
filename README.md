@@ -5,5 +5,8 @@ Here  I maked a Netflix Homepage by using HTML and CSS.
 #Output
 
 
-https://github.com/Lokendra6267/Netflix-Homepage/assets/130831303/0ec49380-3e9b-4a79-9890-6ac55ad4c982
+
+
+
+https://github.com/Lokendra6267/Netflix-Homepage/assets/130831303/f839c5b4-71ba-4567-b42b-cf371150f714
 
